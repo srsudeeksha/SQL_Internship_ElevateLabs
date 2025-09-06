@@ -59,4 +59,3 @@ A comprehensive SQL-based budget tracking system to monitor income, expenses, an
 
 ---
 
-*Built for practical financial management and budget tracking needs.*
