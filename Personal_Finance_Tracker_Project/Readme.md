@@ -22,10 +22,9 @@ A comprehensive SQL-based budget tracking system to monitor income, expenses, an
 
 1. **Setup Database**
    ```sql
-   CREATE DATABASE finance_tracker;
-   USE finance_tracker;
+   CREATE DATABASE personalfinancetracker;
+   USE personalfinancetracker;
    ```
-
 2. **Run Schema Creation**
    Execute the table creation scripts in order
 
